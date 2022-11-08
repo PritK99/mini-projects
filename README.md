@@ -1,4 +1,4 @@
-# mini-projetcs
+# Mini-projetcs
 These are mini projects based on C / C ++
 
 ## 1) Tic-Tac-Toe
